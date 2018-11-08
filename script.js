@@ -47,7 +47,10 @@ function start_prediction_input(){
 }
 
 function show_popup(){
-  alert('The website guesses what it sees from your webcam. It represents that information in terms of circle. Size of the circle corressponds to how confident the wesbite is in its prediction. HAVE FUN!!!')
+  //alert('The website guesses what it sees from your webcam. It represents that information in terms of circle. Size of the circle corressponds to how confident the wesbite is in its prediction. HAVE FUN!!!')
+  //var x = document.getElementById("myModal");
+  //x.style.display = "block";
+  $("#myModal").modal();
 } 
 
 function modelReady() {
