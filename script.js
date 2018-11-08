@@ -7,6 +7,7 @@ var balls = [];
 var drawing_balls = [];
 var start_prediction = false;
 var button;
+var button_question; 
 
 image_width = 600;
 image_height = 420;
@@ -24,6 +25,10 @@ function setup() {
   button = createButton("Let's find out!");
   button.position(window.innerWidth/2 - 70, window.innerHeight/2 + image_height/2 + 50);
   button.mousePressed(start_prediction_input);
+
+  button_question = createButton('?');
+  button_question.position(button.x+230, button.y);
+  button_question.mousePressed(show_popup);
   
   // Create a camera input
   video = createCapture(VIDEO);
@@ -38,7 +43,12 @@ function setup() {
 function start_prediction_input(){
   start_prediction = true;
   button.hide();
+  button_question.hide();
 }
+
+function show_popup(){
+  alert('The website guesses what it sees from your webcam. It represents that information in terms of circle. Size of the circle corressponds to how confident the wesbite is in its prediction. HAVE FUN!!!')
+} 
 
 function modelReady() {
   // Change the status of the model once its ready
