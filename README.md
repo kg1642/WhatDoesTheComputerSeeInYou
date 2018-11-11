@@ -6,9 +6,9 @@ many other websites, users do not interact with keybpard or mouse, they interact
 
 [HAVE FUN!!!](https://kg1642.github.io/WhatDoesTheComputerSeesInYou/)
 
-[alt text](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/start_window.png, 'Start Window')
+![](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/start_window.png 'Start Window')
 
-[alt text](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/bottle_predicted.png 'Predicted water bottle with high confidence')
+![](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/bottle_predicted.png 'Predicted water bottle with high confidence')
 
 # Motivation and Process
 As an aspiring Machine Learning Engineer, I am in awe of the ability of machine learning models and algorithms to solve complex problems. Although, many people have used softwares that use machine learning models and algorithms, most are unaware about these algorithms' capabilities and in some cases their existence. Therefore, I
