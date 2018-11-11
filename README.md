@@ -4,6 +4,12 @@
 The prediction made are represented by the circles. The size of the circle corresponds to how confident the website in its prediction. Users are encouraged to actively interact with the website. However, unlike 
 many other websites, users do not interact with keybpard or mouse, they interact by showing different objects in front of the webcam and see whether the website predicts the objects.  
 
+[HAVE FUN!!!](https://kg1642.github.io/WhatDoesTheComputerSeesInYou/)
+
+[alt text](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/start_window.png, 'Start Window')
+
+[alt text](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/bottle_predicted.png 'Predicted water bottle with high confidence')
+
 # Motivation and Process
 As an aspiring Machine Learning Engineer, I am in awe of the ability of machine learning models and algorithms to solve complex problems. Although, many people have used softwares that use machine learning models and algorithms, most are unaware about these algorithms' capabilities and in some cases their existence. Therefore, I
 wanted to use this opportunity to create an interactive project where I could present Machine Learning in a fun way. Although, the project, does not tell the user much about how the algorithms works, I hope it encourages the user to learn about more machine learning or at least makes them aware of algorithms' capabilities and existence.
