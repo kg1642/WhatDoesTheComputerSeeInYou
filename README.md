@@ -2,7 +2,7 @@
 
 [What Does the Computer Sees In You](https://kg1642.github.io/WhatDoesTheComputerSeesInYou/) predicts what it sees from the webcam of the user's device. The users needs to allow the website to use the webcam. It uses the [MobileNet (ml5 image classification model)](https://ml5js.org/docs/video-classification-example) model to make a prediction.
 The prediction made are represented by the circles. The size of the circle corresponds to how confident the website in its prediction. Users are encouraged to actively interact with the website. However, unlike 
-many other websites, users do not interact with keybpard or mouse, they interact by showing different objects in front of the webcam and see whether the website predicts the objects.  
+many other websites, participatory medium is not keybpard or mouse but it is webcam where users interact by showing different objects in front of the webcam and see whether the website predicts the objects. It is a different kind of .
 
 [HAVE FUN!!!](https://kg1642.github.io/WhatDoesTheComputerSeesInYou/)
 
