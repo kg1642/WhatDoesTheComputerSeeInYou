@@ -1,14 +1,13 @@
 # About
 
-[What Does the Computer Sees In You](https://kg1642.github.io/WhatDoesTheComputerSeesInYou/) predicts what it sees from the webcam of the user's device. The users needs to allow the website to use the webcam. It uses the [MobileNet (ml5 image classification model)](https://ml5js.org/docs/video-classification-example) model to make a prediction.
-The prediction made are represented by the circles. The size of the circle corresponds to how confident the website in its prediction. Users are encouraged to actively interact with the website. However, unlike 
-many other websites, participatory medium is not keybpard or mouse but it is webcam where users interact by showing different objects in front of the webcam and see whether the website predicts the objects. It is a different kind of .
+[What Does the Computer See In You](https://kg1642.github.io/WhatDoesTheComputerSeeInYou/) predicts what it sees from the webcam of the user's device. The users need to allow the website to use the webcam. It uses the [MobileNet (ml5 image classification model)](https://ml5js.org/docs/video-classification-example) model to make a prediction.
+The prediction made are represented by the circles. The size of the circle corresponds to how confident the model is in its prediction. Users are encouraged to actively interact with the website. However, unlike 
+many other websites, participatory medium is not keybpard or mouse but it is webcam where users interact by showing different objects in front of the webcam and see whether the model predicts the objects. 
+[HAVE FUN!!!](https://kg1642.github.io/WhatDoesTheComputerSeeInYou/)
 
-[HAVE FUN!!!](https://kg1642.github.io/WhatDoesTheComputerSeesInYou/)
+![](https://github.com/kg1642/WhatDoesTheComputerSeeInYou/blob/master/start_window.png 'Start Window')
 
-![](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/start_window.png 'Start Window')
-
-![](https://github.com/kg1642/WhatDoesTheComputerSeesInYou/blob/master/bottle_predicted.png 'Predicted water bottle with high confidence')
+![](https://github.com/kg1642/WhatDoesTheComputerSeeInYou/blob/master/bottle_predicted.png 'Predicted water bottle with high confidence')
 
 # Motivation and Process
 As an aspiring Machine Learning Engineer, I am in awe of the ability of machine learning models and algorithms to solve complex problems. Although, many people have used softwares that use machine learning models and algorithms, most are unaware about these algorithms' capabilities and in some cases their existence. Therefore, I
